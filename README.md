@@ -3,10 +3,35 @@
 <div align="center">
 
 <a href="https://github.com/adityakm1405/Stylus-userstyles">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:080D1A,35:10284B,70:164E80,100:080D1A&text=STYLUS%20USERSTYLES&fontColor=EAF6FF&fontSize=44&fontAlignY=43&desc=THE%20WEB%20IS%20YOUR%20CANVAS&descSize=16&descAlignY=62&descColor=57D7FF&animation=fadeIn&stroke=2878B5" width="100%" alt="Stylus Userstyles — The Web Is Your Canvas"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:100D0A,35:302014,70:63401E,100:100D0A&text=STYLUS%20USERSTYLES&fontColor=FFF4DF&fontSize=44&fontAlignY=42&desc=AN%20INDEPENDENT%20WEB%20DESIGN%20COLLECTION&descSize=13&descAlignY=62&descColor=F4B860&animation=fadeIn&stroke=AD762F" width="100%" alt="Stylus Userstyles — An Independent Web Design Collection"/>
 </a>
 
 <br/>
+
+### `✳` Every interface has another side.
+
+A growing collection of handcrafted CSS themes and website redesigns built to make the web feel more personal, polished, and enjoyable.
+
+<br/>
+
+<a href="https://github.com/adityakm1405/Stylus-userstyles">
+  <img src="https://img.shields.io/badge/EXPLORE_THEMES-201810?style=for-the-badge&logo=github&logoColor=F4B860" alt="Explore themes"/>
+</a>
+<a href="https://github.com/adityakm1405/Stylus-userstyles/stargazers">
+  <img src="https://img.shields.io/github/stars/adityakm1405/Stylus-userstyles?style=for-the-badge&logo=github&label=STARS&color=49301A" alt="GitHub stars"/>
+</a>
+<a href="https://github.com/adityakm1405/Stylus-userstyles/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-49301A?style=for-the-badge&logo=opensourceinitiative&logoColor=F4B860" alt="MIT license"/>
+</a>
+<a href="https://github.com/adityakm1405/Stylus-userstyles/issues">
+  <img src="https://img.shields.io/badge/IDEAS_%26_BUGS-OPEN_AN_ISSUE-201810?style=for-the-badge&logo=github&logoColor=F4B860" alt="Issues"/>
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=F4B860&center=true&vCenter=true&repeat=true&width=480&height=32&lines=Less+generic.+More+personal.;CSS+with+character.;Your+browser%2C+your+aesthetic.;Small+overrides.+Entirely+new+vibes." alt="Animated tagline"/>
+
+</div>
 
 ### `✦ A different look for every corner of the web.`
 
