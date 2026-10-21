@@ -74,7 +74,7 @@ A refined dark redesign for [AnimeXin](https://animexin.dev), built around deep 
 
 `#0D110F` `#141A17` `#1A221E` `#29372E` `#73D9A4`
 
-[Browse the repository](https://github.com/adityakm1405/Stylus-userstyles/tree/main)
+[Browse the repository](https://github.com/adityakm1405/Stylus-userstyles/tree/main#folder-row-0)
 
 </details>
 
@@ -89,7 +89,7 @@ A modern gaming-catalogue redesign for [byxatab.com](https://byxatab.com), using
 - Consistent link and hover styling
 - CSS-driven visual enhancements
 
-[Browse the repository](https://github.com/adityakm1405/Stylus-userstyles/tree/main)
+[Browse the repository](https://github.com/adityakm1405/Stylus-userstyles/tree/main#folder-row-0)
 
 </details>
 
@@ -100,7 +100,7 @@ This repository is the home for my other website-specific CSS themes and future 
 
 Browse the repository to discover the available files and folders.
 
-[**Explore all files →**](https://github.com/adityakm1405/Stylus-userstyles/tree/main)
+[**Explore all files →**](https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes)
 
 </details>
 
