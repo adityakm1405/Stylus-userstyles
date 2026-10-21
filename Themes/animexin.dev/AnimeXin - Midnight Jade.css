@@ -1,9 +1,11 @@
-/*
- * Theme: AnimeXin - Midnight Jade
- * Author: Aditya Mishra
- * Original source: https://github.com/adityakm1405/Stylus-userstyles
- * License: MIT
- */
+/* ==UserStyle==
+@name           AnimeXin - Midnight Jade
+@namespace      github.com/openstyles/stylus
+@version        1.0.3
+@description    a refined dark anime catalogue with deep charcoal backgrounds and muted green accents
+@author         adityakm1405
+@license MIT
+==/UserStyle== */
 
 @-moz-document domain("animexin.dev") {
 :root {
