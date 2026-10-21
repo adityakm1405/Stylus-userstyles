@@ -3,7 +3,8 @@
 <div align="center">
 
 <a href="https://github.com/adityakm1405/Stylus-userstyles">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07110D,35:103B2B,70:18543B,100:07110D&text=STYLUS%20%2F%2F%20USERSTYLES&fontColor=E5FFF0&fontSize=42&fontAlignY=40&desc=REWRITE%20THE%20WEB.%20YOUR%20WAY.&descSize=15&descAlignY=61&descColor=73D9A4&animation=fadeIn&section=header" width="100%" alt="Stylus Userstyles — Rewrite the Web. Your Way." />
+  <img src="https://capsule-render.vercel.app/api?type=checkered&height=250&color=0:07110D,35:103B2B,70:18543B,100:07110D&text=STYLUS%20USERSTYLES&fontColor=E5FFF0&fontSize=42&fontAlignY=42&desc=PERSONALIZE%20EVERY%20PIXEL.&descSize=16&descAlignY=63&descColor=73D9A4&animation=scaleIn&stroke=1D7650&strokeWidth=1" width="100%" alt="Stylus Userstyles — Personalize Every Pixel" />
+</a>
 </a>
 
 <br/>
