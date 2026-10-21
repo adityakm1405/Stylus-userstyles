@@ -19,9 +19,11 @@ Redesigned interfaces. Distinctive palettes. Small overrides, completely differe
 <a href="https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes">
   <img src="https://img.shields.io/badge/EXPLORE_THEMES-8B5CF6?style=for-the-badge&logo=css3&logoColor=white" alt="Explore themes"/>
 </a>
+
 <a href="https://github.com/adityakm1405/Stylus-userstyles/stargazers">
   <img src="https://img.shields.io/github/stars/adityakm1405/Stylus-userstyles?style=for-the-badge&color=242033&logo=github&logoColor=C4B5FD" alt="GitHub stars"/>
 </a>
+
 <a href="https://github.com/adityakm1405/Stylus-userstyles/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/LICENSE-MIT-242033?style=for-the-badge&logo=opensourceinitiative&logoColor=C4B5FD" alt="MIT License"/>
 </a>
