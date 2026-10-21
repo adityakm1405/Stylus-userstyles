@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/adityakm1405/Stylus-userstyles">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:050B08,25:0B2116,50:103B27,75:0B2116,100:050B08&text=%3E_STYLUS_USERSTYLES&fontColor=E5FFF0&fontSize=40&fontAlignY=42&desc=/*%20REIMAGINE%20YOUR%20BROWSER%20*/&descSize=14&descAlignY=63&descColor=73D9A4&animation=fadeIn&stroke=1D7650&strokeWidth=2" width="100%" alt="Stylus Userstyles — Reimagine Your Browser" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=250&color=0:050B08,30:0D291C,60:176442,100:07110D&text=STYLUS%20USERSTYLES&fontColor=E5FFF0&fontSize=43&fontAlignY=43&desc=RESHAPE%20YOUR%20DIGITAL%20WORLD.&descSize=14&descAlignY=63&descColor=73D9A4&animation=fadeIn&stroke=1D7650" width="100%" alt="Stylus Userstyles — Reshape Your Digital World" />
 </a>
 
 <br/>
