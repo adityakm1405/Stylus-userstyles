@@ -1,8 +1,9 @@
  <!-- README.md -->
 
 <div align="center">
+
 <a href="https://github.com/adityakm1405/Stylus-userstyles">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:07110D,50:103B2B,100:07110D&text=STYLUS%20USERSTYLES&fontColor=E5FFF0&fontSize=42&fontAlignY=43&desc=REIMAGINE%20THE%20WEB.&descSize=16&descAlignY=62&descColor=73D9A4&animation=fadeIn&stroke=1D7650" width="100%" alt="Stylus Userstyles — Reimagine the Web"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:080D1A,35:10284B,70:164E80,100:080D1A&text=STYLUS%20USERSTYLES&fontColor=EAF6FF&fontSize=44&fontAlignY=43&desc=THE%20WEB%20IS%20YOUR%20CANVAS&descSize=16&descAlignY=62&descColor=57D7FF&animation=fadeIn&stroke=2878B5" width="100%" alt="Stylus Userstyles — The Web Is Your Canvas"/>
 </a>
 
 <br/>
@@ -14,21 +15,21 @@ A growing collection of handcrafted CSS themes and website redesigns built to ma
 <br/>
 
 <a href="https://github.com/adityakm1405/Stylus-userstyles">
-  <img src="https://img.shields.io/badge/EXPLORE_THEMES-0D2118?style=for-the-badge&logo=github&logoColor=8BE9B1" alt="Explore themes"/>
+  <img src="https://img.shields.io/badge/EXPLORE_THEMES-101B30?style=for-the-badge&logo=github&logoColor=57D7FF" alt="Explore themes"/>
 </a>
 <a href="https://github.com/adityakm1405/Stylus-userstyles/stargazers">
-  <img src="https://img.shields.io/github/stars/adityakm1405/Stylus-userstyles?style=for-the-badge&logo=github&label=STARS&color=164D36" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/adityakm1405/Stylus-userstyles?style=for-the-badge&logo=github&label=STARS&color=163C65" alt="GitHub stars"/>
 </a>
 <a href="https://github.com/adityakm1405/Stylus-userstyles/blob/main/LICENSE">
-  <img src="https://img.shields.io/badge/LICENSE-MIT-164D36?style=for-the-badge&logo=opensourceinitiative&logoColor=8BE9B1" alt="MIT license"/>
+  <img src="https://img.shields.io/badge/LICENSE-MIT-163C65?style=for-the-badge&logo=opensourceinitiative&logoColor=57D7FF" alt="MIT license"/>
 </a>
 <a href="https://github.com/adityakm1405/Stylus-userstyles/issues">
-  <img src="https://img.shields.io/badge/IDEAS_%26_BUGS-OPEN_AN_ISSUE-0D2118?style=for-the-badge&logo=github" alt="Issues"/>
+  <img src="https://img.shields.io/badge/IDEAS_%26_BUGS-OPEN_AN_ISSUE-101B30?style=for-the-badge&logo=github&logoColor=57D7FF" alt="Issues"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=73D9A4&center=true&vCenter=true&repeat=true&width=480&height=32&lines=Less+generic.+More+personal.;CSS+with+character.;Your+browser%2C+your+aesthetic.;Small+overrides.+Entirely+new+vibes." alt="Animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=57D7FF&center=true&vCenter=true&repeat=true&width=480&height=32&lines=Less+generic.+More+personal.;CSS+with+character.;Your+browser%2C+your+aesthetic.;Small+overrides.+Entirely+new+vibes." alt="Animated tagline"/>
 
 </div>
 
@@ -126,7 +127,7 @@ Install a theme in a few clicks, directly from GitHub or through my style profil
 
 Get the Stylus browser extension for your browser:
 
-<a href="https://add0n.com/stylus.html"><img src="https://img.shields.io/badge/GET_STYLUS-Browser_Extension-164D36?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Get Stylus"/></a>
+<a href="https://add0n.com/stylus.html"><img src="https://img.shields.io/badge/GET_STYLUS-Browser_Extension-163C65?style=for-the-badge&logo=firefoxbrowser&logoColor=EAF6FF" alt="Get Stylus"/></a>
 
 **02 · Choose a theme**
 
@@ -160,8 +161,8 @@ You can also browse my published styles and follow the installation instructions
 
 <div align="center">
 
-<a href="https://userstyles.world/user/adityakm1405"><img src="https://img.shields.io/badge/EXPLORE-UserStyles.world-164D36?style=for-the-badge" alt="Browse my UserStyles.world profile"/></a>
-<a href="https://greasyfork.org/en/users/1655330-adityakm1405"><img src="https://img.shields.io/badge/EXPLORE-Greasy_Fork-0D2118?style=for-the-badge" alt="Browse my Greasy Fork profile"/></a>
+<a href="https://userstyles.world/user/adityakm1405"><img src="https://img.shields.io/badge/EXPLORE-UserStyles.world-163C65?style=for-the-badge" alt="Browse my UserStyles.world profile"/></a>
+<a href="https://greasyfork.org/en/users/1655330-adityakm1405"><img src="https://img.shields.io/badge/EXPLORE-Greasy_Fork-101B30?style=for-the-badge" alt="Browse my Greasy Fork profile"/></a>
 
 </div>
 
@@ -214,10 +215,10 @@ You can use these styles as a starting point for your own browser customization 
 4. Open an issue to discuss a bug or proposed enhancement, or submit a pull request.
 
 <a href="https://github.com/adityakm1405/Stylus-userstyles/issues">
-  <img src="https://img.shields.io/badge/REPORT_A_BUG-Open_an_Issue-164D36?style=for-the-badge&logo=github" alt="Report a bug"/>
+  <img src="https://img.shields.io/badge/REPORT_A_BUG-Open_an_Issue-163C65?style=for-the-badge&logo=github" alt="Report a bug"/>
 </a>
 <a href="https://github.com/adityakm1405/Stylus-userstyles/pulls">
-  <img src="https://img.shields.io/badge/CONTRIBUTE-View_Pull_Requests-0D2118?style=for-the-badge&logo=github" alt="Contribute"/>
+  <img src="https://img.shields.io/badge/CONTRIBUTE-View_Pull_Requests-101B30?style=for-the-badge&logo=github" alt="Contribute"/>
 </a>
 
 ---
@@ -241,16 +242,16 @@ Please give appropriate credit to the original author and link back to this repo
 <div align="center">
 
 <a href="https://github.com/adityakm1405/Stylus-userstyles/tree/main">
-  <img src="https://img.shields.io/badge/01-EXPLORE_THEMES-103B2B?style=for-the-badge" alt="Explore themes"/>
+  <img src="https://img.shields.io/badge/01-EXPLORE_THEMES-10284B?style=for-the-badge" alt="Explore themes"/>
 </a>
 <a href="https://github.com/adityakm1405/Stylus-userstyles/issues">
-  <img src="https://img.shields.io/badge/02-REPORT_ISSUES-103B2B?style=for-the-badge" alt="Report issues"/>
+  <img src="https://img.shields.io/badge/02-REPORT_ISSUES-10284B?style=for-the-badge" alt="Report issues"/>
 </a>
 <a href="https://github.com/adityakm1405/Stylus-userstyles/stargazers">
-  <img src="https://img.shields.io/badge/03-LEAVE_A_STAR-103B2B?style=for-the-badge" alt="Star repository"/>
+  <img src="https://img.shields.io/badge/03-LEAVE_A_STAR-10284B?style=for-the-badge" alt="Star repository"/>
 </a>
 <a href="https://github.com/adityakm1405">
-  <img src="https://img.shields.io/badge/04-MORE_BY_THE_AUTHOR-103B2B?style=for-the-badge" alt="More by the author"/>
+  <img src="https://img.shields.io/badge/04-MORE_BY_THE_AUTHOR-10284B?style=for-the-badge" alt="More by the author"/>
 </a>
 
 <br/><br/>
@@ -267,7 +268,7 @@ Please give appropriate credit to the original author and link back to this repo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07110D,50:103B2B,100:07110D&height=100&section=footer" width="100%" alt="Emerald footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:10284B,100:080D1A&height=100&section=footer" width="100%" alt="Midnight sapphire footer"/>
 
 </div>
 
