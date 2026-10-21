@@ -28,8 +28,6 @@ Redesigned interfaces. Distinctive palettes. Small overrides, completely differe
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=900&color=BFA7FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=Interfaces+deserve+personality.;CSS+is+the+creative+medium.;Your+browser.+Your+visual+identity.;Break+the+default.+Keep+the+web." alt="Animated design philosophy"/>
-
 </div>
 
 ---
