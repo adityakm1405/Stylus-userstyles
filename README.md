@@ -114,6 +114,8 @@ Browse the repository to discover the available files and folders.
 
 **Your browser. Your rules. Your aesthetic.**
 
+Install a theme in a few clicks, directly from GitHub or through my style profiles.
+
 </div>
 
 ### The recommended way — Stylus
@@ -123,35 +125,56 @@ Browse the repository to discover the available files and folders.
 
 **01 · Install Stylus**
 
-Get the extension for your browser:
+Get the Stylus browser extension for your browser:
 
-<a href="https://add0n.com/stylus.html"><img src="https://img.shields.io/badge/Get_Stylus-Browser_Extension-164D36?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Get Stylus"/></a>
+<a href="https://add0n.com/stylus.html"><img src="https://img.shields.io/badge/GET_STYLUS-Browser_Extension-164D36?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Get Stylus"/></a>
 
 **02 · Choose a theme**
 
-[Open this repository](https://github.com/adityakm1405/Stylus-userstyles/tree/main) and locate the CSS file for the website you want to customize.
+[Open the repository](https://github.com/adityakm1405/Stylus-userstyles/tree/main) and navigate to the theme you want to install. Open its `.user.css` file by clicking its filename.
 
-**03 · Install the CSS**
+**03 · Click the Raw button**
 
-- If the file is a compatible `.user.css` file, open its raw URL in your browser and follow the Stylus installation prompt.
-- If it is a regular `.css` file, open the Stylus extension, create a new style, and paste the CSS into its editor.
-- If needed, configure the style's target website or domain in Stylus.
+Once the file is open on GitHub, look at the **top-right corner of the code panel**. You'll find a button labelled **Raw**.
 
-**04 · Enable and enjoy**
+Click **Raw** to open the actual stylesheet instead of GitHub's formatted code view.
 
-Save the style, visit the target website, and enable it in Stylus. If the appearance doesn't change, check the target domain and whether another style is overriding it.
+> **Can't find the Raw button?** Make sure you've opened an individual `.user.css` file, not just the repository homepage or a folder. The button appears in the top-right area of the file view.
+
+**04 · Install through Stylus**
+
+With Stylus installed and enabled, opening the raw `.user.css` URL in your browser should trigger Stylus's UserCSS installation page.
+
+Review the theme details and click the installation option provided by Stylus to add the style to your browser.
+
+**05 · Enable and enjoy**
+
+Visit the website the theme was designed for and make sure the style is enabled in Stylus.
+
+If the installation prompt doesn't appear, check that Stylus is installed and enabled in the **same browser** where you're opening the raw URL. Also verify that you're opening the raw file URL rather than the regular GitHub file page.
 
 </details>
 
-### Prefer manual installation?
+### Prefer to install from a style directory?
 
-You can also clone the repository and inspect or edit the styles locally.
+You can also browse my published styles and follow the installation instructions on either platform.
+
+<div align="center">
+
+<a href="https://userstyles.world/user/adityakm1405"><img src="https://img.shields.io/badge/EXPLORE-UserStyles.world-164D36?style=for-the-badge" alt="Browse my UserStyles.world profile"/></a>
+<a href="https://greasyfork.org/en/users/1655330-adityakm1405"><img src="https://img.shields.io/badge/EXPLORE-Greasy_Fork-0D2118?style=for-the-badge" alt="Browse my Greasy Fork profile"/></a>
+
+</div>
+
+### Want to inspect or customize the source?
+
+Clone the repository to your computer:
 
 ```bash
 git clone https://github.com/adityakm1405/Stylus-userstyles.git
 ```
 
-Then open the relevant CSS file in your editor and follow the manual installation steps above.
+Open the relevant `.user.css` file in your code editor to inspect or modify the CSS. You can then install the updated file through its raw URL or manage your changes through Stylus.
 
 ---
 
