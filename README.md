@@ -1,9 +1,8 @@
  <!-- README.md -->
 
 <div align="center">
-
 <a href="https://github.com/adityakm1405/Stylus-userstyles">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=260&color=0:07110D,50:103B2B,100:07110D&text=%7B%20STYLUS%20%7D&fontColor=73D9A4&fontSize=62&fontAlignY=40&desc=THE%20WEB%20IS%20YOUR%20CANVAS&descSize=16&descAlignY=62&descColor=E5FFF0&animation=twinkling&stroke=1D7650" width="100%" alt="{ STYLUS } — The Web Is Your Canvas" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:07110D,50:103B2B,100:07110D&text=STYLUS%20USERSTYLES&fontColor=E5FFF0&fontSize=42&fontAlignY=43&desc=REIMAGINE%20THE%20WEB.&descSize=16&descAlignY=62&descColor=73D9A4&animation=fadeIn&stroke=1D7650" width="100%" alt="Stylus Userstyles — Reimagine the Web"/>
 </a>
 
 <br/>
