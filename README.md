@@ -1,157 +1,258 @@
-# Stylus Userstyles
+ <!-- README.md -->
 
 <div align="center">
 
 <a href="https://github.com/adityakm1405/Stylus-userstyles">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=230&color=0:FF006E,25:FB5607,50:FFBE0B,75:3A86FF,100:8338EC&text=STYLUS%20USERSTYLES&fontColor=FFFFFF&fontSize=42&fontAlignY=43&desc=GIVE%20THE%20WEB%20A%20NEW%20LOOK&descSize=14&descAlignY=65&animation=twinkling&section=header" width="100%" alt="Stylus Userstyles — Give the Web a New Look"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090810,45:211442,100:6D28D9&text=STYLUS%20USERSTYLES&fontSize=42&fontColor=F5F0FF&fontAlignY=42&desc=REWRITE%20THE%20VISUAL%20RULES.&descSize=15&descAlignY=62&descColor=C4B5FD&animation=twinkling&stroke=8B5CF6&strokeWidth=1" alt="Stylus Userstyles — Rewrite the Visual Rules"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=FF4D9D&center=true&vCenter=true&width=600&lines=Less+boring+websites%2C+more+personality.;Custom+themes+for+your+favorite+sites.;Designed+with+CSS.+Made+for+Stylus." alt="Animated introduction"/>
+# LESS TEMPLATE. MORE PERSONALITY.
+
+**A curated collection of custom CSS themes that give the web a different perspective.**
+
+Redesigned interfaces. Distinctive palettes. Small overrides, completely different vibes.
 
 <br/>
 
-<a href="https://github.com/adityakm1405/Stylus-userstyles">
-  <img src="https://img.shields.io/badge/PROJECT-USERSTYLES-FF006E?style=for-the-badge&labelColor=15151C" alt="Userstyles"/>
-</a>
 <a href="https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes">
-  <img src="https://img.shields.io/badge/THEMES-COLLECTION-3A86FF?style=for-the-badge&labelColor=15151C" alt="Themes"/>
+  <img src="https://img.shields.io/badge/EXPLORE_THEMES-8B5CF6?style=for-the-badge&logo=css3&logoColor=white" alt="Explore themes"/>
 </a>
-<a href="https://github.com/adityakm1405/Stylus-userstyles/issues">
-  <img src="https://img.shields.io/badge/FEEDBACK-OPEN-00BFA6?style=for-the-badge&labelColor=15151C" alt="Feedback"/>
+<a href="https://github.com/adityakm1405/Stylus-userstyles/stargazers">
+  <img src="https://img.shields.io/github/stars/adityakm1405/Stylus-userstyles?style=for-the-badge&color=242033&logo=github&logoColor=C4B5FD" alt="GitHub stars"/>
 </a>
 <a href="https://github.com/adityakm1405/Stylus-userstyles/blob/main/LICENSE">
-  <img src="https://img.shields.io/badge/LICENSE-MIT-FFBE0B?style=for-the-badge&labelColor=15151C" alt="MIT License"/>
+  <img src="https://img.shields.io/badge/LICENSE-MIT-242033?style=for-the-badge&logo=opensourceinitiative&logoColor=C4B5FD" alt="MIT License"/>
 </a>
 
 <br/><br/>
 
-**Custom CSS. Distinct aesthetics. A better browsing experience.**
-
-A collection of handcrafted **Stylus userstyles** that give websites a fresh visual identity through custom colors, refined layouts, and carefully styled interface elements.
-
-[Explore Themes](#-themes) · [Installation](#-installation) · [Report an Issue](https://github.com/adityakm1405/Stylus-userstyles/issues)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=900&color=BFA7FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=Interfaces+deserve+personality.;CSS+is+the+creative+medium.;Your+browser.+Your+visual+identity.;Break+the+default.+Keep+the+web." alt="Animated design philosophy"/>
 
 </div>
 
 ---
-
-## ✦ Themes
-
-Each theme has its own identity, palette, and visual direction. Browse the collection to find a style that suits your taste.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎴 AnimeXin — Midnight Jade</h3>
-      <img src="https://img.shields.io/badge/CHARCOAL-0D110F?style=flat-square&labelColor=0D110F" alt="Charcoal"/><img src="https://img.shields.io/badge/FOREST-1A221E?style=flat-square&labelColor=1A221E" alt="Forest"/><img src="https://img.shields.io/badge/JADE-73D9A4?style=flat-square&labelColor=73D9A4" alt="Jade"/>
-
-      A clean, dark anime catalogue with deep charcoal surfaces, subtle green accents, and a more cohesive interface.
-
-      **Website:** [animexin.dev](https://animexin.dev)
-
-      **Files:** [View Theme](https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes/animexin.dev)
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Xatab — Clean Emerald</h3>
-      <img src="https://img.shields.io/badge/DARK-0D1117?style=flat-square&labelColor=0D1117" alt="Dark"/><img src="https://img.shields.io/badge/EMERALD-10B981?style=flat-square&labelColor=10B981" alt="Emerald"/><img src="https://img.shields.io/badge/MINT-A7F3D0?style=flat-square&labelColor=A7F3D0" alt="Mint"/>
-
-      A cleaner gaming catalogue aesthetic built around dark surfaces, emerald accents, and a more organized browsing experience.
-
-      **Website:** [byxatab.com](https://byxatab.com)
-
-      **Files:** [View Theme](https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes/byxatab.com)
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Installation
-
-Get started in a few simple steps.
-
-**01 — Install Stylus**
-
-Install the Stylus browser extension for your browser.
-
-<a href="https://add0n.com/stylus.html">
-  <img src="https://img.shields.io/badge/GET_STYLUS-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Get Stylus"/>
-</a>
-
-**02 — Choose a theme**
-
-Browse the [`Themes`](https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes) directory and open the style for your website.
-
-**03 — Install the CSS**
-
-Open the desired CSS file, copy its contents, and create a new style in Stylus. Paste the code and save it.
-
-**04 — Visit the website**
-
-Open or refresh the target website. The custom styling should apply to its matching domain.
-
----
-
-## 🧩 Built With
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/STYLUS-4A90E2?style=for-the-badge&logo=stylus&logoColor=white" alt="Stylus"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+### THE INTERNET, REIMAGINED.
+
+*Not another website builder. Not another browser.*
+
+**Just a different way to experience the websites you already use.**
 
 </div>
 
+## 01 / The concept
+
+Stylus Userstyles is my collection of handcrafted website redesigns built with CSS and the [Stylus browser extension](https://github.com/openstyles/stylus).
+
+Every website has its own design language. These styles explore what happens when that language gets a fresh perspective — from immersive dark interfaces to restrained color palettes and more cohesive layouts.
+
+The idea is simple: customize the experience without rebuilding the website.
+
+| ✳ Design | ◈ Customize | ⌘ Explore |
+|:---:|:---:|:---:|
+| Distinct visual identities | CSS-based modifications | Readable, adaptable source code |
+
+## 02 / The collection
+
+<div align="center">
+
+### SELECT YOUR ATMOSPHERE
+
+*Different websites. Different aesthetics. One stylesheet at a time.*
+
+</div>
+
+<details open>
+<summary><strong>01 — AnimeXin / Midnight Jade</strong></summary>
+
+A dark, immersive redesign for [AnimeXin](https://animexin.dev), built around charcoal surfaces, muted jade accents, and a cohesive catalogue experience.
+
+**The aesthetic**
+- Deep, layered backgrounds
+- Restrained green highlights
+- Refined navigation, cards, and hover states
+- Website-specific CSS overrides
+
+**Color system**
+
+`#0D110F` · `#141A17` · `#1A221E` · `#29372E` · `#73D9A4`
+
+**Source:** [Browse Midnight Jade →](https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes/animexin.dev)
+
+</details>
+
+<details>
+<summary><strong>02 — Xatab / Clean Emerald</strong></summary>
+
+A cleaner take on the [byxatab.com](https://byxatab.com) gaming catalogue, combining dark surfaces, emerald highlights, and more consistent visual styling.
+
+**The aesthetic**
+- Dark, distraction-free presentation
+- Emerald interactive accents
+- Consistent navigation and hover behavior
+- Layout-focused CSS refinements
+
+**Source:** [Browse Clean Emerald →](https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes/byxatab.com)
+
+</details>
+
+<details>
+<summary><strong>03 — More experiments</strong></summary>
+
+The collection is a work in progress. Additional website-specific styles and future redesigns belong here.
+
+**Source:** [Explore the Themes directory →](https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes)
+
+</details>
+
+> The showcase highlights selected projects. Browse the repository for the actual stylesheet files and current collection.
+
 ---
 
-## 🎨 Design Philosophy
+## 03 / Installation
 
-- **Distinct identities** — each website gets its own visual direction instead of a one-size-fits-all design.
-- **Thoughtful colours** — palettes are selected to create contrast and visual hierarchy.
-- **Cleaner interfaces** — reduce visual clutter and improve consistency where practical.
-- **CSS-first customization** — customize website appearances without modifying their original source code.
+<div align="center">
 
----
+### CHANGE THE LOOK. KEEP THE WEBSITE.
 
-## 💡 Suggestions & Issues
+The simplest way to use these styles is with Stylus.
 
-Found a styling bug, have an idea for a new theme, or want to suggest an improvement?
-
-<a href="https://github.com/adityakm1405/Stylus-userstyles/issues">
-  <img src="https://img.shields.io/badge/OPEN_AN_ISSUE-FF006E?style=for-the-badge&logo=github&logoColor=white" alt="Open an issue"/>
+<a href="https://add0n.com/stylus.html">
+  <img src="https://img.shields.io/badge/GET_STYLUS-INSTALL_EXTENSION-8B5CF6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Install Stylus"/>
 </a>
 
-Please include the website URL, a short description, and a screenshot when reporting a visual issue.
+</div>
 
----
+### Option A — Install a UserCSS file
 
-## 🌐 Find Me Online
+**01.** Install the [Stylus extension](https://add0n.com/stylus.html) in your browser.
+
+**02.** Browse the [Themes directory](https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes) and open the `.user.css` file for the theme you want.
+
+**03.** Click **Raw** on the individual GitHub file page.
+
+**04.** Stylus should recognize the UserCSS file and present its installation interface. Review the style and install it.
+
+**05.** Visit the target website and ensure the style is enabled in Stylus.
+
+*Troubleshooting:* If no installation interface appears, confirm that Stylus is enabled in the same browser and that you opened the raw `.user.css` file rather than the regular GitHub page.
+
+### Option B — Browse published styles
 
 <div align="center">
 
 <a href="https://userstyles.world/user/adityakm1405">
-  <img src="https://img.shields.io/badge/UserStyles.world-8338EC?style=for-the-badge" alt="UserStyles.world"/>
+  <img src="https://img.shields.io/badge/USERSTYLES.WORLD-BROWSE_STYLES-242033?style=for-the-badge&logoColor=C4B5FD" alt="UserStyles.world"/>
 </a>
 <a href="https://greasyfork.org/en/users/1655330-adityakm1405">
-  <img src="https://img.shields.io/badge/Greasy_Fork-FF006E?style=for-the-badge" alt="Greasy Fork"/>
+  <img src="https://img.shields.io/badge/GREASY_FORK-BROWSE_STYLES-242033?style=for-the-badge" alt="Greasy Fork"/>
 </a>
-<a href="https://github.com/adityakm1405">
-  <img src="https://img.shields.io/badge/GitHub-3A86FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+
+</div>
+
+### Option C — Clone and customize
+
+```bash
+git clone https://github.com/adityakm1405/Stylus-userstyles.git
+cd Stylus-userstyles
+```
+
+Open a stylesheet in your preferred editor, modify the CSS, and install your customized version through Stylus.
+
+---
+
+## 04 / Design principles
+
+<div align="center">
+
+| PRINCIPLE | APPROACH |
+|:---|:---|
+| **Visual identity** | A distinct palette and design language for each website |
+| **Color & contrast** | Deliberate accents, readable text, and balanced surfaces |
+| **Interaction** | Consistent hover states and useful visual feedback |
+| **Composition** | Website-specific spacing, alignment, and component styling |
+| **Maintainability** | Organized CSS and reusable variables where practical |
+
+</div>
+
+These principles guide the collection; individual styles are tailored to their target websites rather than forced into one universal theme.
+
+## 05 / Make it yours
+
+**The source is yours to explore.**
+
+Whether you want to adjust a color, improve a component, or build an entirely different aesthetic, these styles can be a starting point.
+
+- **Inspect** — learn how the original website is structured.
+- **Customize** — change the colors, typography, spacing, and components.
+- **Experiment** — develop your own visual direction.
+- **Contribute** — share fixes and improvements with the project.
+
+### Contributing
+
+1. Find an issue or propose an improvement.
+2. Make focused changes to the relevant stylesheet.
+3. Test the result on the target website.
+4. Open an issue or submit a pull request.
+
+<div align="center">
+
+<a href="https://github.com/adityakm1405/Stylus-userstyles/issues">
+  <img src="https://img.shields.io/badge/REPORT_AN_ISSUE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Report an issue"/>
+</a>
+<a href="https://github.com/adityakm1405/Stylus-userstyles/pulls">
+  <img src="https://img.shields.io/badge/SUBMIT_A_PULL_REQUEST-242033?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Submit a pull request"/>
 </a>
 
 </div>
 
 ---
 
+## 06 / Open source
+
+Released under the **MIT License**.
+
+You're free to use, modify, distribute, and adapt the code in accordance with the license terms. When redistributing it, retain the applicable copyright and permission notice.
+
+Attribution and a link back to the original repository are appreciated.
+
+[Read the license →](https://github.com/adityakm1405/Stylus-userstyles/blob/main/LICENSE)
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF006E,25:FB5607,50:FFBE0B,75:3A86FF,100:8338EC&section=footer" width="100%" alt="Multicolour divider"/>
+## MAKE THE WEB FEEL LIKE YOURS.
 
-**Made with CSS and a little creativity.**
+*Good design isn't always about building something new.*
 
-<sub>Give your favourite websites a look of their own.</sub>
+*Sometimes it's about seeing something familiar differently.*
+
+<br/>
+
+<a href="https://github.com/adityakm1405/Stylus-userstyles/tree/main/Themes">
+  <img src="https://img.shields.io/badge/EXPLORE_THE_COLLECTION-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore the collection"/>
+</a>
+<a href="https://github.com/adityakm1405">
+  <img src="https://img.shields.io/badge/MORE_PROJECTS-242033?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="More projects"/>
+</a>
+
+<br/><br/>
+
+**[adityakm1405](https://github.com/adityakm1405)**
+
+<sub>Independent project · CSS · Stylus · MIT License</sub>
+
+<br/>
+
+<a href="#stylus-userstyles">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:211442,100:090810&height=110&section=footer" width="100%" alt="Violet gradient footer"/>
+</a>
 
 </div>
+
+<!-- End of README.md -->
