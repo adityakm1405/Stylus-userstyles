@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           REDLINE — DODI Repacks | Red & White Dark Theme
 @namespace      github.com/openstyles/stylus
-@version        1.0.1
+@version        1.0.2
 @description    A modern red-and-white dark theme for DODI Repacks.
 @author         adityakm1405
 @license MIT
@@ -164,5 +164,9 @@
     
     #block-14 {
         display: none !important;
-    } 
+    }
+
+    #media_image-2, #media_image-3, #media_image-4 {
+    display: none !important;
+    }  
 }
